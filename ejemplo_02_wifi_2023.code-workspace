@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../ejemplo_02_wifi_2023"
+		},
+		{
+			"name": "Prueba1_esp32",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
